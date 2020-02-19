@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Hudio.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-02-19T04:22:19.885Z</updated>
+    <title>Luciano的个人小站</title>
+    <updated>2020-02-19T04:24:20.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Hudio.github.io"/>
     <link rel="self" href="https://Hudio.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>追求真理</subtitle>
     <logo>https://Hudio.github.io/images/avatar.png</logo>
     <icon>https://Hudio.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Luciano的个人小站</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Hudio.github.io/post/hello-gridea/</id>
