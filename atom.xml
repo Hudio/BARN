@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Hudio.github.io</id>
     <title>Luciano的个人小站</title>
-    <updated>2020-02-29T02:22:50.463Z</updated>
+    <updated>2020-02-29T02:52:32.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Hudio.github.io"/>
     <link rel="self" href="https://Hudio.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://Hudio.github.io/images/avatar.png</logo>
     <icon>https://Hudio.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Luciano的个人小站</rights>
+    <entry>
+        <title type="html"><![CDATA[五十音图]]></title>
+        <id>https://Hudio.github.io/post/wu-shi-yin-tu/</id>
+        <link href="https://Hudio.github.io/post/wu-shi-yin-tu/">
+        </link>
+        <updated>2020-02-29T02:24:04.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>    　 a     　　　　i     　　　　u     　　　　e    　　　　o
+</code></pre>
+<p>a　　あ（ア）　　い（イ）　　う（ウ）　　え（エ）　　お（オ）<br>
+k　　か（カ）　　き（キ）　　く（ク）　　け（ケ）　　こ（コ）<br>
+s　　さ（サ）　　し（シ）　　す（ス）　　せ（セ）　　そ（ソ）<br>
+t　　た（タ）　　ち（チ）　　つ（ツ）　　て（テ）　　と（ト）<br>
+n　　な（ナ）　　に（ニ）　　ぬ（ヌ）　　ね（ネ）　　の（ノ）<br>
+m　　ま（マ）　　み（ミ）　　む（ム）　　め（メ）　　も（モ）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[常用网站列表]]></title>
         <id>https://Hudio.github.io/post/chang-yong-wang-zhan/</id>
