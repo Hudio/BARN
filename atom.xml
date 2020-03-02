@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Hudio.github.io</id>
     <title>Luciano的个人小站</title>
-    <updated>2020-03-02T03:25:25.292Z</updated>
+    <updated>2020-03-02T03:31:40.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Hudio.github.io"/>
     <link rel="self" href="https://Hudio.github.io/atom.xml"/>
@@ -16,17 +16,20 @@
         <link href="https://Hudio.github.io/post/wu-shi-yin-tu/">
         </link>
         <updated>2020-02-29T02:24:04.000Z</updated>
-        <content type="html"><![CDATA[<p>清音：     　<br>
-a段     　　　 i段     　　　u段     　　  e段    　　　  o段<br>
-a行            あ（ア）　　い（イ）　　う（ウ）　　え（エ）　　お（オ）<br>
-ka行　　    か（カ）　　き（キ）　　く（ク）　　け（ケ）　　こ（コ）<br>
-sa行　       さ（サ）　　し（シ）　　す（ス）　　せ（セ）　　そ（ソ）<br>
-ta行　　    た（タ）　　ち（チ）　　つ（ツ）　　て（テ）　　と（ト）<br>
-na行　      な（ナ）　　に（ニ）　　ぬ（ヌ）　　ね（ネ）　　の（ノ）<br>
-ma行　     ま（マ）　　み（ミ）　　む（ム）　　め（メ）　　も（モ）<br>
-ya行          や（ヤ）　　　　　　　　ゆ（ユ）　　　　　　　　よ（ヨ）<br>
-ra行　      ら（ラ）　　り（リ）　　る（ル）　　れ（レ）　　ろ（ロ）<br>
-wa行         わ（ワ）　　　　　　　　　　　　　　　　　　　　を（ヲ）</p>
+        <content type="html"><![CDATA[<h1 id="清音">清音：</h1>
+<pre><code>                   a段     　　　 i段     　　　u段     　　  e段    　　　  o段
+</code></pre>
+<ul>
+<li>a行            あ（ア）　　い（イ）　　う（ウ）　　え（エ）　　お（オ）</li>
+<li>ka行　　    か（カ）　　き（キ）　　く（ク）　　け（ケ）　　こ（コ）</li>
+<li>sa行　       さ（サ）　　し（シ）　　す（ス）　　せ（セ）　　そ（ソ）</li>
+<li>ta行　　    た（タ）　　ち（チ）　　つ（ツ）　　て（テ）　　と（ト）</li>
+<li>na行　       な（ナ）　　に（ニ）　　ぬ（ヌ）　　ね（ネ）　　の（ノ）</li>
+<li>ma行　     ま（マ）　　み（ミ）　　む（ム）　　め（メ）　　も（モ）</li>
+<li>ya行          や（ヤ）　　　　　　　　ゆ（ユ）　　　　　　　　よ（ヨ）</li>
+<li>ra行　       ら（ラ）　　り（リ）　　る（ル）　　れ（レ）　　ろ（ロ）</li>
+<li>wa行         わ（ワ）　　　　　　　　　　　　　　　　　　　　を（ヲ）</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
@@ -35,9 +38,9 @@ wa行         わ（ワ）　　　　　　　　　　　　　　　　　　
         <link href="https://Hudio.github.io/post/chang-yong-wang-zhan/">
         </link>
         <updated>2020-02-19T06:46:52.000Z</updated>
-        <content type="html"><![CDATA[<p>图标下载（easyicon）：https://www.easyicon.net/（下载好看的网页、应用图标）<br>
-B站视频封面提取：http://b.qiuyeye.cn/index.html（输入AV号即可提取视频封面，更适用于手机端）<br>
-站长工具：http://tool.chinaz.com/（IP查询、DNS查询、网站测速等等，种类丰富，功能齐全）</p>
+        <content type="html"><![CDATA[<p>图标下载（easyicon）：https://www.easyicon.net/（下载好看的网页、应用图标）</p>
+<p>B站视频封面提取：http://b.qiuyeye.cn/index.html（输入AV号即可提取视频封面，更适用于手机端）</p>
+<p>站长工具：http://tool.chinaz.com/（IP查询、DNS查询、网站测速等等，种类丰富，功能齐全）</p>
 ]]></content>
     </entry>
     <entry>
