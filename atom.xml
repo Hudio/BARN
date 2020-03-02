@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Hudio.github.io</id>
     <title>Luciano的个人小站</title>
-    <updated>2020-03-02T03:21:20.975Z</updated>
+    <updated>2020-03-02T03:25:25.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Hudio.github.io"/>
     <link rel="self" href="https://Hudio.github.io/atom.xml"/>
@@ -11,14 +11,14 @@
     <icon>https://Hudio.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Luciano的个人小站</rights>
     <entry>
-        <title type="html"><![CDATA[五十音图]]></title>
+        <title type="html"><![CDATA[                          五十音图]]></title>
         <id>https://Hudio.github.io/post/wu-shi-yin-tu/</id>
         <link href="https://Hudio.github.io/post/wu-shi-yin-tu/">
         </link>
         <updated>2020-02-29T02:24:04.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>    　         a段     　　　 i段     　　　u段     　　  e段    　　　  o段
-</code></pre>
-<p>a行            あ（ア）　　い（イ）　　う（ウ）　　え（エ）　　お（オ）<br>
+        <content type="html"><![CDATA[<p>清音：     　<br>
+a段     　　　 i段     　　　u段     　　  e段    　　　  o段<br>
+a行            あ（ア）　　い（イ）　　う（ウ）　　え（エ）　　お（オ）<br>
 ka行　　    か（カ）　　き（キ）　　く（ク）　　け（ケ）　　こ（コ）<br>
 sa行　       さ（サ）　　し（シ）　　す（ス）　　せ（セ）　　そ（ソ）<br>
 ta行　　    た（タ）　　ち（チ）　　つ（ツ）　　て（テ）　　と（ト）<br>
